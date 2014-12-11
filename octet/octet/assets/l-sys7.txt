@@ -1,0 +1,13 @@
+Dragon Curve
+Iterations:
+12
+Angle:
+90
+Constants:
+[]+-
+Axiom:
+FX
+Rule:
+X->X+YF
+Rule:
+Y->FX-Y

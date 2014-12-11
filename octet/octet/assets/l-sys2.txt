@@ -1,0 +1,15 @@
+L-Systems Tree B
+Iterations:
+5
+Angle:
+20
+Constants:
+[]+-
+Leaves
+Axiom:
+F
+Rule:
+F->F[+F]F[-F][F]
+
+
+

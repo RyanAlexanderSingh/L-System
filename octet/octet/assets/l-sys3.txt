@@ -1,0 +1,15 @@
+L-Systems Tree C
+Iterations:
+4
+Angle:
+22.5
+Constants:
+[]+-
+Leaves
+Axiom:
+F
+Rule:
+F->FF-[-F+F+F]+[+F-F-F]
+
+
+

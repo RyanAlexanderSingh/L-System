@@ -1,0 +1,14 @@
+L-Systems Tree D
+Iterations:
+7
+Angle:
+20
+Constants:
+[]+-
+Leaves
+Axiom:
+X
+Rule:
+X->F[+X]F[-X]+X
+Rule:
+F->FF

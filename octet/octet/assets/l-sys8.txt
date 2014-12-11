@@ -1,0 +1,15 @@
+Hilbert Curve
+Iterations:
+4
+Angle:
+90
+Constants:
+[]+-
+Axiom:
+X
+Rule:
+X->XFYFX+F+YFXFY-F-XFYFX
+Rule:
+Y->YFXFY-F-XFYFX+F+YFXFY
+Rule:
+F->F
